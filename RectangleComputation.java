@@ -38,7 +38,7 @@ class RectangleComputation {
 
   public double alldataofcyclender() {
     double SurfaceArea = 2 * 3.14 * height;
-    double BaseArea = 3.14 * radius * radius;
+
     return SurfaceArea;
 
   }
